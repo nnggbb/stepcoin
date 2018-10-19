@@ -12,6 +12,7 @@ STEPCOIN is cryptocurrency for improving health by walking and sports activity.
 - command for production/deploying : npm run build
 
 ### android
+- comming soon
 
 ## Example
 
