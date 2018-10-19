@@ -2,11 +2,11 @@
 STEPCOIN is cryptocurrency for improving health by walking and sports activity.
 
 ## Installation
-### server
+### server (express + mongoose)
 - install command : npm install --save-dev
-- server start command : node index.js
+- server start command : node app.js
 
-### web
+### web (vue + webpack)
 - install command : npm install --save-dev
 - command for developing : npm run dev
 - command for production/deploying : npm run build
