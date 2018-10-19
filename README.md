@@ -15,7 +15,8 @@ STEPCOIN is cryptocurrency for improving health by walking and sports activity.
 
 ## Example
 
-* example server : http://175.118.47.252:8081
+* example web server : http://175.118.47.252:8081
+* example REST api server : http://175.118.47.252:8082/api/*
 
 ## Contributing
 

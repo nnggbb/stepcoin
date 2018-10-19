@@ -1,0 +1,17 @@
+{
+  "name": "stepcoin-server",
+  "version": "1.0.0",
+  "description": "stepcoin hackethon server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "swpiens@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "moment": "^2.22.2",
+    "mongoose": "^5.3.2"
+  }
+}
