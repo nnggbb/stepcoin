@@ -22,8 +22,8 @@ STEPCOIN is cryptocurrency for improving health by walking and sports activity.
 
 Pull requests are very welcome! and join us if you want to get healthy and happy!
 * Plan Leader : Jaehwan, Jung (Samsung Electronics)
-* Android : Sungjin, Hong (Samsung Electronics)
-* Server/Web : Sangwon, Lee (Samsung SDS, swpiens@gmail.com)
+* Android/App Developer : Sungjin, Hong (Samsung Electronics)
+* Server/Web Developer : Sangwon, Lee (Samsung SDS, swpiens@gmail.com)
 
 ## License
 
